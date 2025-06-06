@@ -140,8 +140,6 @@ If you encounter problems, please check the following first:
 
 Feel free to customize and build upon this system to create your own transcription solutions.
 
-
-
 # 实时日语字幕转写系统（附带关键词功能）
 
 ## 🧩 简介
@@ -273,5 +271,3 @@ Translation/
 ---
 
 如需制作自定义语言转写系统，欢迎在此基础上进行二次开发。
-
-
